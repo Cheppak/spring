@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springBootHelloWorld
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sergio.cheppi
+Implementation-Vendor-Id: ar.com.sac
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springBootHelloWorld
+Created-By: Maven Integration for Eclipse
+
